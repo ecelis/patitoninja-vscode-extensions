@@ -3,6 +3,7 @@
   "displayName": "Patito Ninja",
   "description": "Base extension pack by Patito Ninja",
   "version": "0.0.1",
+  "repository": {"url": "https://github.com/ecelis/patitoninja-vscode-extensions"},
   "author": {"name": "Ernesto Celis", "url": "https://github.com/ecelis"},
   "license": "MIT",
   "engines": {
