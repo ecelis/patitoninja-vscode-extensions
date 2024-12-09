@@ -1,0 +1,37 @@
+{
+  "name": "patito-ninja",
+  "displayName": "Patito Ninja",
+  "description": "Base extension pack by Patito Ninja",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "charliermarsh.ruff", 
+    "dbaeumer.vscode-eslint", 
+    "eamodio.gitlens", 
+    "esbenp.prettier-vscode", 
+    "ms-azuretools.vscode-docker", 
+    "ms-python.debugpy", 
+    "ms-python.python", 
+    "ms-python.vscode-pylance", 
+    "ms-toolsai.jupyter", 
+    "ms-toolsai.jupyter-keymap", 
+    "ms-toolsai.jupyter-renderers", 
+    "ms-toolsai.vscode-jupyter-cell-tags", 
+    "ms-toolsai.vscode-jupyter-slideshow", 
+    "ms-vscode-remote.remote-containers", 
+    "ms-vscode-remote.remote-ssh", 
+    "ms-vscode-remote.remote-ssh-edit", 
+    "ms-vscode-remote.remote-wsl", 
+    "ms-vscode-remote.vscode-remote-extensionpack", 
+    "ms-vscode.remote-explorer", 
+    "ms-vscode.remote-server", 
+    "nextchaptersoftware.unblocked-vscode", 
+    "prisma.prisma", 
+    "vscode-icons-team.vscode-icons"
+  ]
+}
