@@ -13,10 +13,13 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "charliermarsh.ruff", 
+    "charliermarsh.ruff",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-spanish",
     "dbaeumer.vscode-eslint", 
     "eamodio.gitlens", 
     "esbenp.prettier-vscode", 
+    "gruntfuggly.todo-tree",
     "ms-azuretools.vscode-docker", 
     "ms-python.debugpy", 
     "ms-python.python", 
@@ -34,7 +37,9 @@
     "ms-vscode.remote-explorer", 
     "ms-vscode.remote-server", 
     "nextchaptersoftware.unblocked-vscode", 
+    "posan.nbsp-vscode",
     "prisma.prisma", 
+    "sonarsource.sonarlint-vscode",
     "vscode-icons-team.vscode-icons"
   ]
 }
