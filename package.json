@@ -2,9 +2,14 @@
   "name": "patito-ninja",
   "displayName": "Patito Ninja",
   "description": "Base extension pack by Patito Ninja",
-  "version": "0.0.1",
-  "repository": {"url": "https://github.com/ecelis/patitoninja-vscode-extensions"},
-  "author": {"name": "Ernesto Celis", "url": "https://github.com/ecelis"},
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/ecelis/patitoninja-vscode-extensions"
+  },
+  "author": {
+    "name": "Ernesto Celis",
+    "url": "https://github.com/ecelis"
+  },
   "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"
@@ -12,33 +17,33 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "charliermarsh.ruff",
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-spanish",
-    "dbaeumer.vscode-eslint", 
-    "eamodio.gitlens", 
-    "esbenp.prettier-vscode", 
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
     "gruntfuggly.todo-tree",
-    "ms-azuretools.vscode-docker", 
-    "ms-python.debugpy", 
-    "ms-python.python", 
-    "ms-python.vscode-pylance", 
-    "ms-toolsai.jupyter", 
-    "ms-toolsai.jupyter-keymap", 
-    "ms-toolsai.jupyter-renderers", 
-    "ms-toolsai.vscode-jupyter-cell-tags", 
-    "ms-toolsai.vscode-jupyter-slideshow", 
-    "ms-vscode-remote.remote-containers", 
-    "ms-vscode-remote.remote-ssh", 
-    "ms-vscode-remote.remote-ssh-edit", 
-    "ms-vscode-remote.remote-wsl", 
-    "ms-vscode-remote.vscode-remote-extensionpack", 
-    "ms-vscode.remote-explorer", 
-    "ms-vscode.remote-server", 
-    "nextchaptersoftware.unblocked-vscode", 
+    "ms-azuretools.vscode-docker",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-server",
+    "nextchaptersoftware.unblocked-vscode",
     "posan.nbsp-vscode",
-    "prisma.prisma", 
+    "prisma.prisma",
     "sonarsource.sonarlint-vscode",
     "vscode-icons-team.vscode-icons"
   ]
