@@ -1,8 +1,9 @@
 {
-  "name": "patito-ninja",
-  "displayName": "Patito Ninja",
-  "description": "Base extension pack by Patito Ninja",
+  "name": "patito-ninja-extension-pack",
+  "displayName": "Patito Ninja's Extension Pack",
+  "description": " Patito Ninja's essential tools to boost productivity and ensure consistent code quality.",
   "version": "0.1.0",
+  "icon": "./patito_ninja.png",
   "repository": {
     "url": "https://github.com/ecelis/patitoninja-vscode-extensions"
   },
@@ -10,6 +11,7 @@
     "name": "Ernesto Celis",
     "url": "https://github.com/ecelis"
   },
+  "publisher": "PatitoNinja",
   "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"
