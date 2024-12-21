@@ -2,7 +2,7 @@
   "name": "patito-ninja-extension-pack",
   "displayName": "Patito Ninja's Extension Pack",
   "description": " Patito Ninja's essential tools to boost productivity and ensure consistent code quality.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "icon": "./patito_ninja.png",
   "repository": {
     "url": "https://github.com/ecelis/patitoninja-vscode-extensions"
