@@ -10,8 +10,22 @@ providing features like:
 - Spell checker
 
 
-## Build
+## Build & Publish
+ 
+Install `vsce`
 
+```sh
+npm install -g @vscode/vsce
 ```
+
+Build
+
+```sh
 vsce package
+```
+
+Publish
+
+```sh
+vsce publish
 ```
