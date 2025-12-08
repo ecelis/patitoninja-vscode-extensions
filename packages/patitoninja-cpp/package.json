@@ -1,0 +1,28 @@
+{
+  "name": "patitoninja-cpp",
+  "displayName": "Patito Ninja C/C++ Pack",
+  "description": "C and C++ development tools including IntelliSense and Makefile support.",
+  "version": "1.0.0",
+  "icon": "./cpp.png",
+  "author": {
+    "name": "Ernesto Celis",
+    "url": "https://github.com/ecelis"
+  },
+  "license": "MIT",
+  "publisher": "patitoninja",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecelis/patitoninja-vscode-extensions.git"
+  },
+  "extensionPack": [
+    "patitoninja.patitoninja-base",
+    "ms-vscode.makefile-tools",
+    "ms-vscode.cpptools"
+  ]
+}

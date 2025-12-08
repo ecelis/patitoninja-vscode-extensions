@@ -1,0 +1,28 @@
+{
+  "name": "patitoninja-go",
+  "displayName": "Patito Ninja Go Pack",
+  "description": "Essential tools for Go (Golang) development.",
+  "version": "1.0.0",
+  "icon": "./go.png",
+  "author": {
+    "name": "Ernesto Celis",
+    "url": "https://github.com/ecelis"
+  },
+  "license": "MIT",
+
+  "publisher": "patitoninja",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecelis/patitoninja-vscode-extensions.git"
+  },
+  "extensionPack": [
+    "patitoninja.patitoninja-base",
+    "golang.go"
+  ]
+}

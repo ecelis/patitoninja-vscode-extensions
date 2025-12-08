@@ -48,5 +48,7 @@
     "prisma.prisma",
     "sonarsource.sonarlint-vscode",
     "vscode-icons-team.vscode-icons"
-  ]
+  ],"extensionDependencies": [
+  "patitoninja.patitoninja-base"
+]
 }
