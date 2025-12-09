@@ -9,7 +9,7 @@
   },
   "license": "MIT",
 
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "PatitoNinja",
   "engines": {
     "vscode": "^1.80.0"
@@ -37,5 +37,11 @@
     "docker.docker",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "postman.postman-for-vscode"
-  ]
+  ],
+  "contributes": {
+    "configurationDefaults": {
+      "workbench.iconTheme": "vscode-icons",
+      "workbench.colorTheme": "Tokyo Night"
+    }
+  }
 }
