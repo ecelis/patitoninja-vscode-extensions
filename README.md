@@ -10,8 +10,7 @@ Action Required:
 2. Add or keep patitoninja-base.
 3. Install the specific stack packs you need:
 
-- [Base Pack](https://marketplace.visualstudio.com/items?itemName=PatitoNinja.patitoninja-base) themes, git tools, docker, spell checking, and remote development utilities
-
+- [Base Pack](https://marketplace.visualstudio.com/items?itemName=PatitoNinja.patitoninja-base)
 - [Python Pack](https://marketplace.visualstudio.com/items?itemName=PatitoNinja.patitoninja-python)
 - [Web Pack](https://marketplace.visualstudio.com/items?itemName=PatitoNinja.patitoninja-web)
 - [Go Pack](https://marketplace.visualstudio.com/items?itemName=PatitoNinja.patitoninja-go)
