@@ -8,6 +8,7 @@ PACKAGES=(
   "patitoninja-web"
   "patitoninja-go"
   "patitoninja-cpp"
+  "patitoninja-java"
 )
 
 mkdir -p dist

@@ -1,15 +1,16 @@
 {
-  "name": "patitoninja-web",
-  "displayName": "Patito Ninja Web Pack",
-  "description": "Full stack web development tools for React, TypeScript, and Node.js.",
-  "version": "1.1.0",
-  "icon": "./web.png",  "author": {
+  "name": "patitoninja-python",
+  "displayName": "Patito Ninja Java Pack",
+  "description": "Comprehensive Java development",
+  "version": "1.0.0",
+  "icon": "./java.png",
+  "author": {
     "name": "Ernesto Celis",
     "url": "https://github.com/ecelis"
   },
   "license": "MIT",
 
-  "publisher": "patitoninja",
+  "publisher": "PatitoNinja",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -22,8 +23,8 @@
   },
   "extensionPack": [
     "patitoninja.patitoninja-base",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "firefox-devtools.vscode-firefox-debug"
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack",
+    "redhat.vscode-quarkus"
   ]
 }
