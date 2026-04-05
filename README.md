@@ -19,6 +19,15 @@ Action Required:
 This collection brings together the essential tools we use at Patito
 Ninja to boost productivity and ensure consistent code quality.
 
+## Requirements
+
+### Ubuntu
+
+```sh
+sudo apt update
+sudo apt install git fonts-jetbrains-mono
+```
+
 ## Build & Publish
 
 Install `vsce`
@@ -40,8 +49,3 @@ publish_all.sh
 ```
 
 ## Recommended Extensions
-
-- `postman.postman-for-vscode`
-- `github.copilot-chat`
-- `github.vscode-github-actions`
-- `ban.spellright`
